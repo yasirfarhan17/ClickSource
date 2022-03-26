@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446520703391",
+    "project_id": "clicksource-a7699",
+    "storage_bucket": "clicksource-a7699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446520703391:android:bb389f10357c4107fb25aa",
+        "android_client_info": {
+          "package_name": "com.example.clicksource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446520703391-pskcjv2pv6uihd9hjgn7ui5f2878oiug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8DfZevNoPmIlpJuIX4iuPJUwoISr2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446520703391-pskcjv2pv6uihd9hjgn7ui5f2878oiug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

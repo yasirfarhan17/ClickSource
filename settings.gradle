@@ -1,0 +1,4 @@
+
+rootProject.name = "ClickSource"
+include ':app'
+include ':networkModule'
